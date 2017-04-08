@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Aberdeen STudy Group"
+title:  "Aberdeen Study Group"
 date:   2017-04-08
 excerpt: "A fun, informal meetup of friends and colleagues to share skills, stories and ideas on using code for research, and exploring open research practices."
 project: true
@@ -11,9 +11,7 @@ tag:
 comments: true
 ---
 
-![AberdeenStudy Group](https://aberdeenstudygroup.github.io/studyGroup/)    
-    
-<center><b>Aberdeen Study Group</b> is a fun, informal meetup of friends and colleagues to share skills, stories and ideas on using code for research, and exploring open research practices..</center>
+[AberdeenStudy Group](https://aberdeenstudygroup.github.io/studyGroup/) is a fun, informal meetup of friends and colleagues to share skills, stories and ideas on using code for research, and exploring open research practices.
 The goal is to create a friendly, no-pressure environment where people can share their work, ask for help on a coding problem, and learn and work together with their peers. Everyone is welcome, especially beginners! 
 
 
@@ -32,3 +30,5 @@ This group is for all the open science champions in Aberdeen, for those who woul
 ### What we do
 
 We meet regularly every week. Sometimes someone will show us how to use a new tool, sometimes we just work together at our own projects asking each other questions. We always work in a collaboratively and friendly way, try to learn from each other and sometimes we just go to the pub.
+
+#### [Learn more](https://aberdeenstudygroup.github.io/studyGroup/)
