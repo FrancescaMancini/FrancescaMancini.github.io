@@ -1,11 +1,11 @@
 # Site
 title:              Francesca Mancini
-bio:                'I ma an interdisciplinary conservation scientist.'
-description:        "I use computational methods and unconventional data sources to investigate sustainability of socioecological systems."
+bio:                'I am an interdisciplinary conservation scientist. I use computational methods and unconventional data sources to investigate sustainability of socioecological systems.'
+description:        ""
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/20160626_123759.jpg'
-background:         'assets/img/PTDC0020 (2).JPG'
+background:         'assets/img/Coast.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
 locale:             en_US
 url:                //francescamancini.github.io
