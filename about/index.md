@@ -16,4 +16,4 @@ In my free time I enjoy watching films, reading books and swimming.
 
 ## Check out my Resume.
 
-<center><img src="https://github.com/FrancescaMancini/Resume/Resume.png" style="width: 2000px;"/></center>
+<center><img src="https://github.com/FrancescaMancini/Resume/blob/master/Resume.png?raw=true" style="width: 2000px;"/></center>
