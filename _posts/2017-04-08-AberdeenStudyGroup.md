@@ -11,7 +11,7 @@ tag:
 comments: true
 ---
 
-[AberdeenStudy Group](https://aberdeenstudygroup.github.io/studyGroup/) is a fun, informal meetup of friends and colleagues to share skills, stories and ideas on using code for research, and exploring open research practices.
+[Aberdeen Study Group](https://aberdeenstudygroup.github.io/studyGroup/) is a fun, informal meetup of friends and colleagues to share skills, stories and ideas on using code for research, and exploring open research practices.
 The goal is to create a friendly, no-pressure environment where people can share their work, ask for help on a coding problem, and learn and work together with their peers. Everyone is welcome, especially beginners! 
 
 
