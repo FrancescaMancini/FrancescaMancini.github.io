@@ -6,7 +6,7 @@ date: 2017-04-08
 comments: false
 ---
     
-<center><a href="assets/img/20160626_123759.jpg"></a> </center>
+<center><img src="assets/img/20160626_123759.jpg"/></center>
 
 ## What I do
 I am a PhD student at the University of Aberdeen. My research is about finding sustainable management solutions for wildlife tourism.
@@ -16,3 +16,4 @@ In my free time I enjoy watching films, reading books and swimming.
 
 ## Check out my Resume.
 
+<center><img src="assets/img/Resume.png"/></center>
