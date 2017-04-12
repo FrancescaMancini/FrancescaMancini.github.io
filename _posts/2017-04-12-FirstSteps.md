@@ -3,7 +3,6 @@ layout: post
 title:  "Aberdeen Study Group's first steps"
 date:   2017-04-12
 excerpt: "A story of coding and collaboration to promote open science."
-project: false
 tag:
 - coding 
 - open science
