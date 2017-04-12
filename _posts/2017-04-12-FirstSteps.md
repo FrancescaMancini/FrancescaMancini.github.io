@@ -16,7 +16,7 @@ I know, that’s a big goal! But after the initial “I am going to change the w
 
 I was so excited when we finally launched the project with an awesome Hacky Hour. I was very surprised by the number of “new” people that joined us in the pub and it was great to hear their ideas on how to make the study group work. Since then we have run two successful tutorials (check them out [here](https://aberdeenstudygroup.github.io/studyGroup/lessons/)) and a co-working session.
 
-<center><img src="../assets/img/HackyHour.jpg" style="width: 200px;"/></center>
+<center><img src="../assets/img/HackyHour.jpg" style="width: 200px;" class="rotateimg270"/></center>
 
 [This event](https://github.com/AberdeenStudyGroup/studyGroup/issues/8) was particularly exciting. We teamed up with the [Coding Club](https://ourcodingclub.github.io/) from Edinburgh to lead a tutorial on how to efficiently manipulate and visualise big biodiversity datasets. Around 20 people participated and we all learned something new. I really enjoyed discovering how to use pipes in R and how to write super tidy code in RStudio, but the thing I loved the most was the collaboration. A PhD sometimes can be very isolating, especially for a computer-based researcher. Sitting at your desk, staring at code all day every day with only Google to help you… I love coding but it can be a bit too much sometimes. 
 
@@ -24,4 +24,6 @@ That is why we need projects such as the Aberdeen Study Group or the Coding Club
 
 I want to thank [Team Shrub](https://teamshrub.wordpress.com/) for their enthusiasm and their work in putting together the tutorial and especially [Gergana Daskalova](https://adventurousandefficient.com/) without whom all of this would not have been possible. I am really looking forward to collaborating with them again!
 
-<img src="../assets/img/Tutoria1.jpg" style="width: 200px;"/> <img src="../assets/img/Tutoria2.jpg" style="width: 200px;"/> <img src="../assets/img/Tutoria3.jpg" style="width: 200px;"/>
+<img src="../assets/img/Tutoria1.jpg" style="width: 200px;"/> 
+<img src="../assets/img/Tutoria2.jpg" style="width: 200px;"/> 
+<img src="../assets/img/Tutoria3.jpg" style="width: 200px;"/>
