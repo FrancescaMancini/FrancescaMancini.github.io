@@ -22,5 +22,8 @@ That is why we need projects such as the Aberdeen Study Group or the Coding Club
 
 I want to thank [Team Shrub](https://teamshrub.wordpress.com/) for their enthusiasm and their work in putting together the tutorial and especially [Gergana Daskalova](https://adventurousandefficient.com/) without whom all of this would not have been possible. I am really looking forward to collaborating with them again!
 
-<img src="../assets/img/Tutorial1.jpg" style="width: 200px;"/> <img src="../assets/img/Tutorial2.jpg" style="width: 200px;"/>
-<center><img src="../assets/img/Tutorial3.jpg" style="width: 200px;"/></center>
+<center><img src="../assets/img/Tutorial1.jpg" style="width: 500px;"/></center>
+
+<center><img src="../assets/img/Tutorial2.jpg" style="width: 500px;"/></center>
+
+<center><img src="../assets/img/Tutorial3.jpg" style="width: 500px;"/></center>
