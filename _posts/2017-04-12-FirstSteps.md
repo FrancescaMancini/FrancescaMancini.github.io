@@ -18,7 +18,7 @@ I know, that’s a big goal! But after the initial “I am going to change the w
 
 I was so excited when we finally launched the project with an awesome Hacky Hour. I was very surprised by the number of “new” people that joined us in the pub and it was great to hear their ideas on how to make the study group work. Since then we have run two successful tutorials (check them out [here](https://aberdeenstudygroup.github.io/studyGroup/lessons/)) and a co-working session.
 
-<center><img src="../assets/img/HackyHourRotate.jpg" style="width: 500px;"/></center>
+<center><img src="../assets/img/HackyHourRotate.jpg" style="width: 200px;"/></center>
 
 [This event](https://github.com/AberdeenStudyGroup/studyGroup/issues/8) was particularly exciting. We teamed up with the [Coding Club](https://ourcodingclub.github.io/) from Edinburgh to lead a tutorial on how to efficiently manipulate and visualise big biodiversity datasets. Around 20 people participated and we all learned something new. I really enjoyed discovering how to use pipes in R and how to write super tidy code in RStudio, but the thing I loved the most was the collaboration. A PhD sometimes can be very isolating, especially for a computer-based researcher. Sitting at your desk, staring at code all day every day with only Google to help you… I love coding but it can be a bit too much sometimes. 
 
