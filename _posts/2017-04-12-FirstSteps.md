@@ -7,7 +7,7 @@ tag:
 - coding 
 - open science
 - study group
-comments: false
+comments: true
 ---
 
 <center><img src="../assets/img/Tutorial1.jpg" style="width: 500px;"/></center>
