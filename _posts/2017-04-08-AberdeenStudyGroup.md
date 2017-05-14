@@ -33,8 +33,10 @@ We meet regularly every week. Sometimes someone will show us how to use a new to
 
 #### [Learn more](https://aberdeenstudygroup.github.io/studyGroup/)
 
-{% if page.comments %}
-<div id="disqus_thread"></div>
+
+
+
+{% if page.comments %} <div id="disqus_thread"></div>
 <script>
 
 /**
@@ -54,5 +56,4 @@ s.setAttribute('data-timestamp', +new Date());
 })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-
 {% endif %}
