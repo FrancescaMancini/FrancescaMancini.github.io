@@ -7,7 +7,7 @@ tag:
 - open science
 - study group
 - conference
-comments: false
+comments: true
 ---
 
 <center><img src="../assets/img/SBSPGRCONF.jpg" style="width: 500px;"/></center>
