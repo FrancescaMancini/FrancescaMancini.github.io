@@ -8,7 +8,7 @@ tag:
 - coding 
 - open science
 - open web
-comments: flase
+comments: true
 ---
 
 I am so excited to announce that Aberdeen will be one of the host sites for the [Mozilla Global Sprint 2017](https://mozilla.github.io/global-sprint/)!
