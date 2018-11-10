@@ -3,6 +3,7 @@ layout: post
 title:  "Introducing Human readable abstracts"
 date:   2018-07-09
 excerpt: "A scicomm blog post series."
+project: true
 tag:
 - open science
 - scicomm
