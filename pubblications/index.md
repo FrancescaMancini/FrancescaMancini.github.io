@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Pubblications
-excerpt: "A List of my Pubblications"
+title: Publications
+excerpt: "A List of my Publications"
 comments: false
 ---
 
