@@ -5,6 +5,8 @@ excerpt: "A List of my Publications"
 comments: false
 ---
 
+* **Mancini F.**, Leyshon B., Manson F., Coghill G.M., Lusseau D., 2020. Monitoring tourists’ specialisation and implementing adaptive governance is necessary to avoid failure of the wildlife tourism commons. *Tourism Management* 81(2020), 104160. DOI:10.1016/j.tourman.2020.104160. Avalilable at [publisher](https://www.sciencedirect.com/science/article/pii/S0261517720300844?dgcid=author).
+
 * **Mancini F.**, Woodcock B.A., Isaac N.J.B., 2019. Agrochemicals in the wild: identifying links between pesticide use and declines of non-target organisms. *Current Opinion in Environmental Science & Health*. DOI:10.1016/j.coesh.2019.07.003. Available at [publisher](https://doi.org/10.1016/j.coesh.2019.07.003).
 
 * Travers H, Selinske M., Nuno A., Serban A., **Mancini F.**, Barychka T., Bush E., Rasolofoson R.A., Watson J.E.M., Milner-Gulland E.J. 2019. A manifesto for predictive conservation. *Biological Conservation* 237(2019), 12-18. DOI:10.1016/j.biocon.2019.05.059.  Available at [publisher](https://www.sciencedirect.com/science/article/pii/S0006320718316057?via%3Dihub).
